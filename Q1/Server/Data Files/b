@@ -1,0 +1,5 @@
+The server and client will be two different codes which will be run in different directories. For
+example, let the server directory contain: file1.txt, file2.txt, file3.txt
+The client will create a connection to the server and send requests to download files to the client
+directory. It will write the files into its own directory.
+Error handling such as requesting missing files must be handled.

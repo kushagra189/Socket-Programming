@@ -1,0 +1,4 @@
+1. Error scenarios must be handled. Programs crashing during evaluation will be penalized.
+2. Using external libraries is not allowed. Sockets must be used.
+3. Plagiarism in any form shall not be tolerated.
+4. A viva will be taken during evaluation
