@@ -1,6 +1,5 @@
 # Author :
 1. Kushagra Nagori (20161032)
-2. Anurag Mehta (20161016)
 
 # Problem Statement :
 1. A basic server and client using sockets
@@ -38,14 +37,14 @@
 - Untar the file.
 - cd 20161032_Assignment1
 - cd Q2
-  - Persistent
+  1. Persistent
    - cd Server
    - python server.py
    - open new terminal.
    - cd Client
    - python client.py
    - give the file names.
-  - Non-Persistent
+  2. Non-Persistent
    - cd Server
    - python server.py
    - open new terminal.
